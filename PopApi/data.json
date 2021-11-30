@@ -1,0 +1,3176 @@
+{
+  "Estimates": [
+    {
+      "State": 1,
+      "Districts": 2010,
+      "EstimatesPopulation": 2147429,
+      "EstimatesHouseholds": 812112
+    },
+    {
+      "State": 2,
+      "Districts": 2010,
+      "EstimatesPopulation": 282121,
+      "EstimatesHouseholds": 97868
+    },
+    {
+      "State": 3,
+      "Districts": 2010,
+      "EstimatesPopulation": 1207663,
+      "EstimatesHouseholds": 453784
+    },
+    {
+      "State": 4,
+      "Districts": 2010,
+      "EstimatesPopulation": 1286314,
+      "EstimatesHouseholds": 501787
+    },
+    {
+      "State": 5,
+      "Districts": 2010,
+      "EstimatesPopulation": 6424083,
+      "EstimatesHouseholds": 2209806
+    },
+    {
+      "State": 6,
+      "Districts": 2010,
+      "EstimatesPopulation": 1415042,
+      "EstimatesHouseholds": 550254
+    },
+    {
+      "State": 7,
+      "Districts": 2010,
+      "EstimatesPopulation": 999739,
+      "EstimatesHouseholds": 381253
+    },
+    {
+      "State": 8,
+      "Districts": 2010,
+      "EstimatesPopulation": 232876,
+      "EstimatesHouseholds": 88845
+    },
+    {
+      "State": 9,
+      "Districts": 2010,
+      "EstimatesPopulation": 91397,
+      "EstimatesHouseholds": 36572
+    },
+    {
+      "State": 10,
+      "Districts": 2010,
+      "EstimatesPopulation": 4340656,
+      "EstimatesHouseholds": 1647612
+    },
+    {
+      "State": 11,
+      "Districts": 2010,
+      "EstimatesPopulation": 3200904,
+      "EstimatesHouseholds": 1157337
+    },
+    {
+      "State": 12,
+      "Districts": 2010,
+      "EstimatesPopulation": 310621,
+      "EstimatesHouseholds": 98981
+    },
+    {
+      "State": 13,
+      "Districts": 2010,
+      "EstimatesPopulation": 619414,
+      "EstimatesHouseholds": 231228
+    },
+    {
+      "State": 14,
+      "Districts": 2010,
+      "EstimatesPopulation": 3588513,
+      "EstimatesHouseholds": 1353635
+    },
+    {
+      "State": 15,
+      "Districts": 2010,
+      "EstimatesPopulation": 2360689,
+      "EstimatesHouseholds": 878804
+    },
+    {
+      "State": 16,
+      "Districts": 2010,
+      "EstimatesPopulation": 1488084,
+      "EstimatesHouseholds": 589080
+    },
+    {
+      "State": 17,
+      "Districts": 2010,
+      "EstimatesPopulation": 1173174,
+      "EstimatesHouseholds": 457614
+    },
+    {
+      "State": 18,
+      "Districts": 2010,
+      "EstimatesPopulation": 1703099,
+      "EstimatesHouseholds": 647893
+    },
+    {
+      "State": 19,
+      "Districts": 2010,
+      "EstimatesPopulation": 1519673,
+      "EstimatesHouseholds": 554252
+    },
+    {
+      "State": 20,
+      "Districts": 2010,
+      "EstimatesPopulation": 844278,
+      "EstimatesHouseholds": 349755
+    },
+    {
+      "State": 21,
+      "Districts": 2010,
+      "EstimatesPopulation": 1500041,
+      "EstimatesHouseholds": 538544
+    },
+    {
+      "State": 22,
+      "Districts": 2010,
+      "EstimatesPopulation": 2087609,
+      "EstimatesHouseholds": 795981
+    },
+    {
+      "State": 23,
+      "Districts": 2010,
+      "EstimatesPopulation": 2955629,
+      "EstimatesHouseholds": 1125242
+    },
+    {
+      "State": 24,
+      "Districts": 2010,
+      "EstimatesPopulation": 1939481,
+      "EstimatesHouseholds": 770673
+    },
+    {
+      "State": 25,
+      "Districts": 2010,
+      "EstimatesPopulation": 1408322,
+      "EstimatesHouseholds": 512090
+    },
+    {
+      "State": 26,
+      "Districts": 2010,
+      "EstimatesPopulation": 2280657,
+      "EstimatesHouseholds": 888285
+    },
+    {
+      "State": 27,
+      "Districts": 2010,
+      "EstimatesPopulation": 463561,
+      "EstimatesHouseholds": 186085
+    },
+    {
+      "State": 28,
+      "Districts": 2010,
+      "EstimatesPopulation": 722422,
+      "EstimatesHouseholds": 284268
+    },
+    {
+      "State": 29,
+      "Districts": 2010,
+      "EstimatesPopulation": 469209,
+      "EstimatesHouseholds": 178528
+    },
+    {
+      "State": 30,
+      "Districts": 2010,
+      "EstimatesPopulation": 727070,
+      "EstimatesHouseholds": 283242
+    },
+    {
+      "State": 31,
+      "Districts": 2010,
+      "EstimatesPopulation": 2457022,
+      "EstimatesHouseholds": 904727
+    },
+    {
+      "State": 32,
+      "Districts": 2010,
+      "EstimatesPopulation": 630836,
+      "EstimatesHouseholds": 229556
+    },
+    {
+      "State": 33,
+      "Districts": 2010,
+      "EstimatesPopulation": 4620263,
+      "EstimatesHouseholds": 1748343
+    },
+    {
+      "State": 34,
+      "Districts": 2010,
+      "EstimatesPopulation": 3050713,
+      "EstimatesHouseholds": 1175512
+    },
+    {
+      "State": 35,
+      "Districts": 2010,
+      "EstimatesPopulation": 334494,
+      "EstimatesHouseholds": 136232
+    },
+    {
+      "State": 36,
+      "Districts": 2010,
+      "EstimatesPopulation": 3535324,
+      "EstimatesHouseholds": 1346145
+    },
+    {
+      "State": 37,
+      "Districts": 2010,
+      "EstimatesPopulation": 1450233,
+      "EstimatesHouseholds": 549137
+    },
+    {
+      "State": 38,
+      "Districts": 2010,
+      "EstimatesPopulation": 1192255,
+      "EstimatesHouseholds": 473253
+    },
+    {
+      "State": 39,
+      "Districts": 2010,
+      "EstimatesPopulation": 4297942,
+      "EstimatesHouseholds": 1663957
+    },
+    {
+      "State": 40,
+      "Districts": 2010,
+      "EstimatesPopulation": 278044,
+      "EstimatesHouseholds": 105193
+    },
+    {
+      "State": 41,
+      "Districts": 2010,
+      "EstimatesPopulation": 1531526,
+      "EstimatesHouseholds": 573559
+    },
+    {
+      "State": 42,
+      "Districts": 2010,
+      "EstimatesPopulation": 444796,
+      "EstimatesHouseholds": 171805
+    },
+    {
+      "State": 43,
+      "Districts": 2010,
+      "EstimatesPopulation": 2146316,
+      "EstimatesHouseholds": 829860
+    },
+    {
+      "State": 44,
+      "Districts": 2010,
+      "EstimatesPopulation": 6624549,
+      "EstimatesHouseholds": 2342698
+    },
+    {
+      "State": 45,
+      "Districts": 2010,
+      "EstimatesPopulation": 693696,
+      "EstimatesHouseholds": 220886
+    },
+    {
+      "State": 46,
+      "Districts": 2010,
+      "EstimatesPopulation": 412249,
+      "EstimatesHouseholds": 166448
+    },
+    {
+      "State": 47,
+      "Districts": 2010,
+      "EstimatesPopulation": 2733083,
+      "EstimatesHouseholds": 1030221
+    },
+    {
+      "State": 48,
+      "Districts": 2010,
+      "EstimatesPopulation": 1723878,
+      "EstimatesHouseholds": 675787
+    },
+    {
+      "State": 49,
+      "Districts": 2010,
+      "EstimatesPopulation": 1098210,
+      "EstimatesHouseholds": 433652
+    },
+    {
+      "State": 50,
+      "Districts": 2010,
+      "EstimatesPopulation": 2143451,
+      "EstimatesHouseholds": 855917
+    },
+    {
+      "State": 51,
+      "Districts": 2010,
+      "EstimatesPopulation": 244551,
+      "EstimatesHouseholds": 96334
+    },
+    {
+      "State": 1,
+      "Districts": 2011,
+      "EstimatesPopulation": 2166768,
+      "EstimatesHouseholds": 818402
+    },
+    {
+      "State": 2,
+      "Districts": 2011,
+      "EstimatesPopulation": 286092,
+      "EstimatesHouseholds": 100484
+    },
+    {
+      "State": 3,
+      "Districts": 2011,
+      "EstimatesPopulation": 1241969,
+      "EstimatesHouseholds": 458914
+    },
+    {
+      "State": 4,
+      "Districts": 2011,
+      "EstimatesPopulation": 1294582,
+      "EstimatesHouseholds": 502332
+    },
+    {
+      "State": 5,
+      "Districts": 2011,
+      "EstimatesPopulation": 6496095,
+      "EstimatesHouseholds": 2224687
+    },
+    {
+      "State": 6,
+      "Districts": 2011,
+      "EstimatesPopulation": 1440953,
+      "EstimatesHouseholds": 556980
+    },
+    {
+      "State": 7,
+      "Districts": 2011,
+      "EstimatesPopulation": 1002054,
+      "EstimatesHouseholds": 382252
+    },
+    {
+      "State": 8,
+      "Districts": 2011,
+      "EstimatesPopulation": 235069,
+      "EstimatesHouseholds": 89280
+    },
+    {
+      "State": 9,
+      "Districts": 2011,
+      "EstimatesPopulation": 91270,
+      "EstimatesHouseholds": 36560
+    },
+    {
+      "State": 10,
+      "Districts": 2011,
+      "EstimatesPopulation": 4396067,
+      "EstimatesHouseholds": 1655523
+    },
+    {
+      "State": 11,
+      "Districts": 2011,
+      "EstimatesPopulation": 3253739,
+      "EstimatesHouseholds": 1167322
+    },
+    {
+      "State": 12,
+      "Districts": 2011,
+      "EstimatesPopulation": 311369,
+      "EstimatesHouseholds": 100019
+    },
+    {
+      "State": 13,
+      "Districts": 2011,
+      "EstimatesPopulation": 629259,
+      "EstimatesHouseholds": 234084
+    },
+    {
+      "State": 14,
+      "Districts": 2011,
+      "EstimatesPopulation": 3604073,
+      "EstimatesHouseholds": 1355577
+    },
+    {
+      "State": 15,
+      "Districts": 2011,
+      "EstimatesPopulation": 2373301,
+      "EstimatesHouseholds": 883164
+    },
+    {
+      "State": 16,
+      "Districts": 2011,
+      "EstimatesPopulation": 1499535,
+      "EstimatesHouseholds": 593423
+    },
+    {
+      "State": 17,
+      "Districts": 2011,
+      "EstimatesPopulation": 1183240,
+      "EstimatesHouseholds": 457765
+    },
+    {
+      "State": 18,
+      "Districts": 2011,
+      "EstimatesPopulation": 1709829,
+      "EstimatesHouseholds": 649130
+    },
+    {
+      "State": 19,
+      "Districts": 2011,
+      "EstimatesPopulation": 1536278,
+      "EstimatesHouseholds": 562821
+    },
+    {
+      "State": 20,
+      "Districts": 2011,
+      "EstimatesPopulation": 846308,
+      "EstimatesHouseholds": 350798
+    },
+    {
+      "State": 21,
+      "Districts": 2011,
+      "EstimatesPopulation": 1508126,
+      "EstimatesHouseholds": 540439
+    },
+    {
+      "State": 22,
+      "Districts": 2011,
+      "EstimatesPopulation": 2100650,
+      "EstimatesHouseholds": 801899
+    },
+    {
+      "State": 23,
+      "Districts": 2011,
+      "EstimatesPopulation": 2949458,
+      "EstimatesHouseholds": 1121439
+    },
+    {
+      "State": 24,
+      "Districts": 2011,
+      "EstimatesPopulation": 1955827,
+      "EstimatesHouseholds": 775109
+    },
+    {
+      "State": 25,
+      "Districts": 2011,
+      "EstimatesPopulation": 1418253,
+      "EstimatesHouseholds": 515191
+    },
+    {
+      "State": 26,
+      "Districts": 2011,
+      "EstimatesPopulation": 2292173,
+      "EstimatesHouseholds": 889735
+    },
+    {
+      "State": 27,
+      "Districts": 2011,
+      "EstimatesPopulation": 467574,
+      "EstimatesHouseholds": 187454
+    },
+    {
+      "State": 28,
+      "Districts": 2011,
+      "EstimatesPopulation": 724440,
+      "EstimatesHouseholds": 284701
+    },
+    {
+      "State": 29,
+      "Districts": 2011,
+      "EstimatesPopulation": 489291,
+      "EstimatesHouseholds": 183651
+    },
+    {
+      "State": 30,
+      "Districts": 2011,
+      "EstimatesPopulation": 726910,
+      "EstimatesHouseholds": 284290
+    },
+    {
+      "State": 31,
+      "Districts": 2011,
+      "EstimatesPopulation": 2470272,
+      "EstimatesHouseholds": 907271
+    },
+    {
+      "State": 32,
+      "Districts": 2011,
+      "EstimatesPopulation": 635285,
+      "EstimatesHouseholds": 230429
+    },
+    {
+      "State": 33,
+      "Districts": 2011,
+      "EstimatesPopulation": 4632962,
+      "EstimatesHouseholds": 1753298
+    },
+    {
+      "State": 34,
+      "Districts": 2011,
+      "EstimatesPopulation": 3093797,
+      "EstimatesHouseholds": 1187648
+    },
+    {
+      "State": 35,
+      "Districts": 2011,
+      "EstimatesPopulation": 335085,
+      "EstimatesHouseholds": 136897
+    },
+    {
+      "State": 36,
+      "Districts": 2011,
+      "EstimatesPopulation": 3542575,
+      "EstimatesHouseholds": 1347253
+    },
+    {
+      "State": 37,
+      "Districts": 2011,
+      "EstimatesPopulation": 1468324,
+      "EstimatesHouseholds": 554429
+    },
+    {
+      "State": 38,
+      "Districts": 2011,
+      "EstimatesPopulation": 1203788,
+      "EstimatesHouseholds": 476670
+    },
+    {
+      "State": 39,
+      "Districts": 2011,
+      "EstimatesPopulation": 4311409,
+      "EstimatesHouseholds": 1670602
+    },
+    {
+      "State": 40,
+      "Districts": 2011,
+      "EstimatesPopulation": 277164,
+      "EstimatesHouseholds": 105147
+    },
+    {
+      "State": 41,
+      "Districts": 2011,
+      "EstimatesPopulation": 1545303,
+      "EstimatesHouseholds": 579384
+    },
+    {
+      "State": 42,
+      "Districts": 2011,
+      "EstimatesPopulation": 448161,
+      "EstimatesHouseholds": 173498
+    },
+    {
+      "State": 43,
+      "Districts": 2011,
+      "EstimatesPopulation": 2161496,
+      "EstimatesHouseholds": 832941
+    },
+    {
+      "State": 44,
+      "Districts": 2011,
+      "EstimatesPopulation": 6762660,
+      "EstimatesHouseholds": 2380832
+    },
+    {
+      "State": 45,
+      "Districts": 2011,
+      "EstimatesPopulation": 711864,
+      "EstimatesHouseholds": 225420
+    },
+    {
+      "State": 46,
+      "Districts": 2011,
+      "EstimatesPopulation": 412218,
+      "EstimatesHouseholds": 167051
+    },
+    {
+      "State": 47,
+      "Districts": 2011,
+      "EstimatesPopulation": 2756846,
+      "EstimatesHouseholds": 1035194
+    },
+    {
+      "State": 48,
+      "Districts": 2011,
+      "EstimatesPopulation": 1756802,
+      "EstimatesHouseholds": 684360
+    },
+    {
+      "State": 49,
+      "Districts": 2011,
+      "EstimatesPopulation": 1102987,
+      "EstimatesHouseholds": 434166
+    },
+    {
+      "State": 50,
+      "Districts": 2011,
+      "EstimatesPopulation": 2154746,
+      "EstimatesHouseholds": 857689
+    },
+    {
+      "State": 51,
+      "Districts": 2011,
+      "EstimatesPopulation": 248149,
+      "EstimatesHouseholds": 97830
+    },
+    {
+      "State": 1,
+      "Districts": 2012,
+      "EstimatesPopulation": 2181795,
+      "EstimatesHouseholds": 821825
+    },
+    {
+      "State": 2,
+      "Districts": 2012,
+      "EstimatesPopulation": 290849,
+      "EstimatesHouseholds": 100525
+    },
+    {
+      "State": 3,
+      "Districts": 2012,
+      "EstimatesPopulation": 1265581,
+      "EstimatesHouseholds": 464865
+    },
+    {
+      "State": 4,
+      "Districts": 2012,
+      "EstimatesPopulation": 1301934,
+      "EstimatesHouseholds": 505775
+    },
+    {
+      "State": 5,
+      "Districts": 2012,
+      "EstimatesPopulation": 6543941,
+      "EstimatesHouseholds": 2232961
+    },
+    {
+      "State": 6,
+      "Districts": 2012,
+      "EstimatesPopulation": 1462698,
+      "EstimatesHouseholds": 563998
+    },
+    {
+      "State": 7,
+      "Districts": 2012,
+      "EstimatesPopulation": 1006261,
+      "EstimatesHouseholds": 382849
+    },
+    {
+      "State": 8,
+      "Districts": 2012,
+      "EstimatesPopulation": 237767,
+      "EstimatesHouseholds": 89269
+    },
+    {
+      "State": 9,
+      "Districts": 2012,
+      "EstimatesPopulation": 92909,
+      "EstimatesHouseholds": 36658
+    },
+    {
+      "State": 10,
+      "Districts": 2012,
+      "EstimatesPopulation": 4453602,
+      "EstimatesHouseholds": 1663713
+    },
+    {
+      "State": 11,
+      "Districts": 2012,
+      "EstimatesPopulation": 3291662,
+      "EstimatesHouseholds": 1174398
+    },
+    {
+      "State": 12,
+      "Districts": 2012,
+      "EstimatesPopulation": 315664,
+      "EstimatesHouseholds": 101054
+    },
+    {
+      "State": 13,
+      "Districts": 2012,
+      "EstimatesPopulation": 636057,
+      "EstimatesHouseholds": 235054
+    },
+    {
+      "State": 14,
+      "Districts": 2012,
+      "EstimatesPopulation": 3621341,
+      "EstimatesHouseholds": 1360506
+    },
+    {
+      "State": 15,
+      "Districts": 2012,
+      "EstimatesPopulation": 2387972,
+      "EstimatesHouseholds": 885939
+    },
+    {
+      "State": 16,
+      "Districts": 2012,
+      "EstimatesPopulation": 1504554,
+      "EstimatesHouseholds": 595469
+    },
+    {
+      "State": 17,
+      "Districts": 2012,
+      "EstimatesPopulation": 1186342,
+      "EstimatesHouseholds": 460085
+    },
+    {
+      "State": 18,
+      "Districts": 2012,
+      "EstimatesPopulation": 1716988,
+      "EstimatesHouseholds": 653634
+    },
+    {
+      "State": 19,
+      "Districts": 2012,
+      "EstimatesPopulation": 1549146,
+      "EstimatesHouseholds": 568399
+    },
+    {
+      "State": 20,
+      "Districts": 2012,
+      "EstimatesPopulation": 846187,
+      "EstimatesHouseholds": 350630
+    },
+    {
+      "State": 21,
+      "Districts": 2012,
+      "EstimatesPopulation": 1523102,
+      "EstimatesHouseholds": 543448
+    },
+    {
+      "State": 22,
+      "Districts": 2012,
+      "EstimatesPopulation": 2117222,
+      "EstimatesHouseholds": 805595
+    },
+    {
+      "State": 23,
+      "Districts": 2012,
+      "EstimatesPopulation": 2944737,
+      "EstimatesHouseholds": 1120426
+    },
+    {
+      "State": 24,
+      "Districts": 2012,
+      "EstimatesPopulation": 1960935,
+      "EstimatesHouseholds": 776984
+    },
+    {
+      "State": 25,
+      "Districts": 2012,
+      "EstimatesPopulation": 1421121,
+      "EstimatesHouseholds": 516943
+    },
+    {
+      "State": 26,
+      "Districts": 2012,
+      "EstimatesPopulation": 2304664,
+      "EstimatesHouseholds": 890798
+    },
+    {
+      "State": 27,
+      "Districts": 2012,
+      "EstimatesPopulation": 471330,
+      "EstimatesHouseholds": 189530
+    },
+    {
+      "State": 28,
+      "Districts": 2012,
+      "EstimatesPopulation": 726387,
+      "EstimatesHouseholds": 285880
+    },
+    {
+      "State": 29,
+      "Districts": 2012,
+      "EstimatesPopulation": 498480,
+      "EstimatesHouseholds": 187108
+    },
+    {
+      "State": 30,
+      "Districts": 2012,
+      "EstimatesPopulation": 727547,
+      "EstimatesHouseholds": 285892
+    },
+    {
+      "State": 31,
+      "Districts": 2012,
+      "EstimatesPopulation": 2485880,
+      "EstimatesHouseholds": 909739
+    },
+    {
+      "State": 32,
+      "Districts": 2012,
+      "EstimatesPopulation": 644756,
+      "EstimatesHouseholds": 230965
+    },
+    {
+      "State": 33,
+      "Districts": 2012,
+      "EstimatesPopulation": 4645662,
+      "EstimatesHouseholds": 1758327
+    },
+    {
+      "State": 34,
+      "Districts": 2012,
+      "EstimatesPopulation": 3134981,
+      "EstimatesHouseholds": 1195806
+    },
+    {
+      "State": 35,
+      "Districts": 2012,
+      "EstimatesPopulation": 339111,
+      "EstimatesHouseholds": 138606
+    },
+    {
+      "State": 36,
+      "Districts": 2012,
+      "EstimatesPopulation": 3543656,
+      "EstimatesHouseholds": 1348852
+    },
+    {
+      "State": 37,
+      "Districts": 2012,
+      "EstimatesPopulation": 1478848,
+      "EstimatesHouseholds": 555911
+    },
+    {
+      "State": 38,
+      "Districts": 2012,
+      "EstimatesPopulation": 1215580,
+      "EstimatesHouseholds": 479142
+    },
+    {
+      "State": 39,
+      "Districts": 2012,
+      "EstimatesPopulation": 4322391,
+      "EstimatesHouseholds": 1673800
+    },
+    {
+      "State": 40,
+      "Districts": 2012,
+      "EstimatesPopulation": 277706,
+      "EstimatesHouseholds": 105322
+    },
+    {
+      "State": 41,
+      "Districts": 2012,
+      "EstimatesPopulation": 1566367,
+      "EstimatesHouseholds": 584565
+    },
+    {
+      "State": 42,
+      "Districts": 2012,
+      "EstimatesPopulation": 452773,
+      "EstimatesHouseholds": 174595
+    },
+    {
+      "State": 43,
+      "Districts": 2012,
+      "EstimatesPopulation": 2174672,
+      "EstimatesHouseholds": 835378
+    },
+    {
+      "State": 44,
+      "Districts": 2012,
+      "EstimatesPopulation": 6882014,
+      "EstimatesHouseholds": 2412519
+    },
+    {
+      "State": 45,
+      "Districts": 2012,
+      "EstimatesPopulation": 725589,
+      "EstimatesHouseholds": 228693
+    },
+    {
+      "State": 46,
+      "Districts": 2012,
+      "EstimatesPopulation": 412727,
+      "EstimatesHouseholds": 167358
+    },
+    {
+      "State": 47,
+      "Districts": 2012,
+      "EstimatesPopulation": 2783027,
+      "EstimatesHouseholds": 1041875
+    },
+    {
+      "State": 48,
+      "Districts": 2012,
+      "EstimatesPopulation": 1781979,
+      "EstimatesHouseholds": 690314
+    },
+    {
+      "State": 49,
+      "Districts": 2012,
+      "EstimatesPopulation": 1103534,
+      "EstimatesHouseholds": 434997
+    },
+    {
+      "State": 50,
+      "Districts": 2012,
+      "EstimatesPopulation": 2165681,
+      "EstimatesHouseholds": 859462
+    },
+    {
+      "State": 51,
+      "Districts": 2012,
+      "EstimatesPopulation": 252168,
+      "EstimatesHouseholds": 99208
+    },
+    {
+      "State": 1,
+      "Districts": 2013,
+      "EstimatesPopulation": 2181030,
+      "EstimatesHouseholds": 820891
+    },
+    {
+      "State": 2,
+      "Districts": 2013,
+      "EstimatesPopulation": 294654,
+      "EstimatesHouseholds": 100141
+    },
+    {
+      "State": 3,
+      "Districts": 2013,
+      "EstimatesPopulation": 1282582,
+      "EstimatesHouseholds": 469354
+    },
+    {
+      "State": 4,
+      "Districts": 2013,
+      "EstimatesPopulation": 1307882,
+      "EstimatesHouseholds": 506075
+    },
+    {
+      "State": 5,
+      "Districts": 2013,
+      "EstimatesPopulation": 6590859,
+      "EstimatesHouseholds": 2247788
+    },
+    {
+      "State": 6,
+      "Districts": 2013,
+      "EstimatesPopulation": 1479638,
+      "EstimatesHouseholds": 568463
+    },
+    {
+      "State": 7,
+      "Districts": 2013,
+      "EstimatesPopulation": 1009084,
+      "EstimatesHouseholds": 381619
+    },
+    {
+      "State": 8,
+      "Districts": 2013,
+      "EstimatesPopulation": 240624,
+      "EstimatesHouseholds": 90095
+    },
+    {
+      "State": 9,
+      "Districts": 2013,
+      "EstimatesPopulation": 94230,
+      "EstimatesHouseholds": 36831
+    },
+    {
+      "State": 10,
+      "Districts": 2013,
+      "EstimatesPopulation": 4519857,
+      "EstimatesHouseholds": 1675083
+    },
+    {
+      "State": 11,
+      "Districts": 2013,
+      "EstimatesPopulation": 3309342,
+      "EstimatesHouseholds": 1176004
+    },
+    {
+      "State": 12,
+      "Districts": 2013,
+      "EstimatesPopulation": 323289,
+      "EstimatesHouseholds": 102449
+    },
+    {
+      "State": 13,
+      "Districts": 2013,
+      "EstimatesPopulation": 641482,
+      "EstimatesHouseholds": 235922
+    },
+    {
+      "State": 14,
+      "Districts": 2013,
+      "EstimatesPopulation": 3635435,
+      "EstimatesHouseholds": 1361577
+    },
+    {
+      "State": 15,
+      "Districts": 2013,
+      "EstimatesPopulation": 2393881,
+      "EstimatesHouseholds": 887765
+    },
+    {
+      "State": 16,
+      "Districts": 2013,
+      "EstimatesPopulation": 1508612,
+      "EstimatesHouseholds": 596499
+    },
+    {
+      "State": 17,
+      "Districts": 2013,
+      "EstimatesPopulation": 1192038,
+      "EstimatesHouseholds": 460150
+    },
+    {
+      "State": 18,
+      "Districts": 2013,
+      "EstimatesPopulation": 1719999,
+      "EstimatesHouseholds": 654635
+    },
+    {
+      "State": 19,
+      "Districts": 2013,
+      "EstimatesPopulation": 1561011,
+      "EstimatesHouseholds": 572215
+    },
+    {
+      "State": 20,
+      "Districts": 2013,
+      "EstimatesPopulation": 844291,
+      "EstimatesHouseholds": 351464
+    },
+    {
+      "State": 21,
+      "Districts": 2013,
+      "EstimatesPopulation": 1532934,
+      "EstimatesHouseholds": 546612
+    },
+    {
+      "State": 22,
+      "Districts": 2013,
+      "EstimatesPopulation": 2126763,
+      "EstimatesHouseholds": 807478
+    },
+    {
+      "State": 23,
+      "Districts": 2013,
+      "EstimatesPopulation": 2938917,
+      "EstimatesHouseholds": 1122776
+    },
+    {
+      "State": 24,
+      "Districts": 2013,
+      "EstimatesPopulation": 1971783,
+      "EstimatesHouseholds": 778004
+    },
+    {
+      "State": 25,
+      "Districts": 2013,
+      "EstimatesPopulation": 1419945,
+      "EstimatesHouseholds": 514722
+    },
+    {
+      "State": 26,
+      "Districts": 2013,
+      "EstimatesPopulation": 2315627,
+      "EstimatesHouseholds": 891998
+    },
+    {
+      "State": 27,
+      "Districts": 2013,
+      "EstimatesPopulation": 475508,
+      "EstimatesHouseholds": 189233
+    },
+    {
+      "State": 28,
+      "Districts": 2013,
+      "EstimatesPopulation": 728406,
+      "EstimatesHouseholds": 287273
+    },
+    {
+      "State": 29,
+      "Districts": 2013,
+      "EstimatesPopulation": 503283,
+      "EstimatesHouseholds": 188684
+    },
+    {
+      "State": 30,
+      "Districts": 2013,
+      "EstimatesPopulation": 730387,
+      "EstimatesHouseholds": 287787
+    },
+    {
+      "State": 31,
+      "Districts": 2013,
+      "EstimatesPopulation": 2498387,
+      "EstimatesHouseholds": 911653
+    },
+    {
+      "State": 32,
+      "Districts": 2013,
+      "EstimatesPopulation": 647591,
+      "EstimatesHouseholds": 230657
+    },
+    {
+      "State": 33,
+      "Districts": 2013,
+      "EstimatesPopulation": 4653742,
+      "EstimatesHouseholds": 1756201
+    },
+    {
+      "State": 34,
+      "Districts": 2013,
+      "EstimatesPopulation": 3172208,
+      "EstimatesHouseholds": 1204513
+    },
+    {
+      "State": 35,
+      "Districts": 2013,
+      "EstimatesPopulation": 345479,
+      "EstimatesHouseholds": 140671
+    },
+    {
+      "State": 36,
+      "Districts": 2013,
+      "EstimatesPopulation": 3545126,
+      "EstimatesHouseholds": 1349140
+    },
+    {
+      "State": 37,
+      "Districts": 2013,
+      "EstimatesPopulation": 1490308,
+      "EstimatesHouseholds": 558874
+    },
+    {
+      "State": 38,
+      "Districts": 2013,
+      "EstimatesPopulation": 1218670,
+      "EstimatesHouseholds": 480582
+    },
+    {
+      "State": 39,
+      "Districts": 2013,
+      "EstimatesPopulation": 4330617,
+      "EstimatesHouseholds": 1672851
+    },
+    {
+      "State": 40,
+      "Districts": 2013,
+      "EstimatesPopulation": 278183,
+      "EstimatesHouseholds": 105715
+    },
+    {
+      "State": 41,
+      "Districts": 2013,
+      "EstimatesPopulation": 1579027,
+      "EstimatesHouseholds": 588977
+    },
+    {
+      "State": 42,
+      "Districts": 2013,
+      "EstimatesPopulation": 455597,
+      "EstimatesHouseholds": 175763
+    },
+    {
+      "State": 43,
+      "Districts": 2013,
+      "EstimatesPopulation": 2185675,
+      "EstimatesHouseholds": 837031
+    },
+    {
+      "State": 44,
+      "Districts": 2013,
+      "EstimatesPopulation": 7010254,
+      "EstimatesHouseholds": 2440787
+    },
+    {
+      "State": 45,
+      "Districts": 2013,
+      "EstimatesPopulation": 733813,
+      "EstimatesHouseholds": 229312
+    },
+    {
+      "State": 46,
+      "Districts": 2013,
+      "EstimatesPopulation": 412651,
+      "EstimatesHouseholds": 167194
+    },
+    {
+      "State": 47,
+      "Districts": 2013,
+      "EstimatesPopulation": 2800813,
+      "EstimatesHouseholds": 1045923
+    },
+    {
+      "State": 48,
+      "Districts": 2013,
+      "EstimatesPopulation": 1804989,
+      "EstimatesHouseholds": 694594
+    },
+    {
+      "State": 49,
+      "Districts": 2013,
+      "EstimatesPopulation": 1103656,
+      "EstimatesHouseholds": 433698
+    },
+    {
+      "State": 50,
+      "Districts": 2013,
+      "EstimatesPopulation": 2173453,
+      "EstimatesHouseholds": 860434
+    },
+    {
+      "State": 51,
+      "Districts": 2013,
+      "EstimatesPopulation": 255983,
+      "EstimatesHouseholds": 99975
+    },
+    {
+      "State": 1,
+      "Districts": 2014,
+      "EstimatesPopulation": 2184371,
+      "EstimatesHouseholds": 819854
+    },
+    {
+      "State": 2,
+      "Districts": 2014,
+      "EstimatesPopulation": 296428,
+      "EstimatesHouseholds": 100035
+    },
+    {
+      "State": 3,
+      "Districts": 2014,
+      "EstimatesPopulation": 1308280,
+      "EstimatesHouseholds": 475287
+    },
+    {
+      "State": 4,
+      "Districts": 2014,
+      "EstimatesPopulation": 1309693,
+      "EstimatesHouseholds": 506010
+    },
+    {
+      "State": 5,
+      "Districts": 2014,
+      "EstimatesPopulation": 6654395,
+      "EstimatesHouseholds": 2262916
+    },
+    {
+      "State": 6,
+      "Districts": 2014,
+      "EstimatesPopulation": 1497330,
+      "EstimatesHouseholds": 571893
+    },
+    {
+      "State": 7,
+      "Districts": 2014,
+      "EstimatesPopulation": 1013581,
+      "EstimatesHouseholds": 383070
+    },
+    {
+      "State": 8,
+      "Districts": 2014,
+      "EstimatesPopulation": 243545,
+      "EstimatesHouseholds": 90822
+    },
+    {
+      "State": 9,
+      "Districts": 2014,
+      "EstimatesPopulation": 95175,
+      "EstimatesHouseholds": 37148
+    },
+    {
+      "State": 10,
+      "Districts": 2014,
+      "EstimatesPopulation": 4578154,
+      "EstimatesHouseholds": 1689831
+    },
+    {
+      "State": 11,
+      "Districts": 2014,
+      "EstimatesPopulation": 3330543,
+      "EstimatesHouseholds": 1182095
+    },
+    {
+      "State": 12,
+      "Districts": 2014,
+      "EstimatesPopulation": 330039,
+      "EstimatesHouseholds": 103278
+    },
+    {
+      "State": 13,
+      "Districts": 2014,
+      "EstimatesPopulation": 646970,
+      "EstimatesHouseholds": 237288
+    },
+    {
+      "State": 14,
+      "Districts": 2014,
+      "EstimatesPopulation": 3638992,
+      "EstimatesHouseholds": 1363407
+    },
+    {
+      "State": 15,
+      "Districts": 2014,
+      "EstimatesPopulation": 2408100,
+      "EstimatesHouseholds": 892416
+    },
+    {
+      "State": 16,
+      "Districts": 2014,
+      "EstimatesPopulation": 1516321,
+      "EstimatesHouseholds": 600097
+    },
+    {
+      "State": 17,
+      "Districts": 2014,
+      "EstimatesPopulation": 1196358,
+      "EstimatesHouseholds": 461064
+    },
+    {
+      "State": 18,
+      "Districts": 2014,
+      "EstimatesPopulation": 1720214,
+      "EstimatesHouseholds": 656030
+    },
+    {
+      "State": 19,
+      "Districts": 2014,
+      "EstimatesPopulation": 1569228,
+      "EstimatesHouseholds": 575548
+    },
+    {
+      "State": 20,
+      "Districts": 2014,
+      "EstimatesPopulation": 843564,
+      "EstimatesHouseholds": 350746
+    },
+    {
+      "State": 21,
+      "Districts": 2014,
+      "EstimatesPopulation": 1543368,
+      "EstimatesHouseholds": 548380
+    },
+    {
+      "State": 22,
+      "Districts": 2014,
+      "EstimatesPopulation": 2140505,
+      "EstimatesHouseholds": 809595
+    },
+    {
+      "State": 23,
+      "Districts": 2014,
+      "EstimatesPopulation": 2938583,
+      "EstimatesHouseholds": 1126496
+    },
+    {
+      "State": 24,
+      "Districts": 2014,
+      "EstimatesPopulation": 1982537,
+      "EstimatesHouseholds": 779743
+    },
+    {
+      "State": 25,
+      "Districts": 2014,
+      "EstimatesPopulation": 1424460,
+      "EstimatesHouseholds": 517415
+    },
+    {
+      "State": 26,
+      "Districts": 2014,
+      "EstimatesPopulation": 2319342,
+      "EstimatesHouseholds": 890312
+    },
+    {
+      "State": 27,
+      "Districts": 2014,
+      "EstimatesPopulation": 478862,
+      "EstimatesHouseholds": 190234
+    },
+    {
+      "State": 28,
+      "Districts": 2014,
+      "EstimatesPopulation": 729967,
+      "EstimatesHouseholds": 287810
+    },
+    {
+      "State": 29,
+      "Districts": 2014,
+      "EstimatesPopulation": 509514,
+      "EstimatesHouseholds": 190158
+    },
+    {
+      "State": 30,
+      "Districts": 2014,
+      "EstimatesPopulation": 730703,
+      "EstimatesHouseholds": 289614
+    },
+    {
+      "State": 31,
+      "Districts": 2014,
+      "EstimatesPopulation": 2511463,
+      "EstimatesHouseholds": 912146
+    },
+    {
+      "State": 32,
+      "Districts": 2014,
+      "EstimatesPopulation": 649425,
+      "EstimatesHouseholds": 231129
+    },
+    {
+      "State": 33,
+      "Districts": 2014,
+      "EstimatesPopulation": 4667843,
+      "EstimatesHouseholds": 1756910
+    },
+    {
+      "State": 34,
+      "Districts": 2014,
+      "EstimatesPopulation": 3191333,
+      "EstimatesHouseholds": 1208953
+    },
+    {
+      "State": 35,
+      "Districts": 2014,
+      "EstimatesPopulation": 350473,
+      "EstimatesHouseholds": 142570
+    },
+    {
+      "State": 36,
+      "Districts": 2014,
+      "EstimatesPopulation": 3547881,
+      "EstimatesHouseholds": 1351116
+    },
+    {
+      "State": 37,
+      "Districts": 2014,
+      "EstimatesPopulation": 1503762,
+      "EstimatesHouseholds": 560593
+    },
+    {
+      "State": 38,
+      "Districts": 2014,
+      "EstimatesPopulation": 1230354,
+      "EstimatesHouseholds": 481989
+    },
+    {
+      "State": 39,
+      "Districts": 2014,
+      "EstimatesPopulation": 4337398,
+      "EstimatesHouseholds": 1675584
+    },
+    {
+      "State": 40,
+      "Districts": 2014,
+      "EstimatesPopulation": 277365,
+      "EstimatesHouseholds": 104917
+    },
+    {
+      "State": 41,
+      "Districts": 2014,
+      "EstimatesPopulation": 1595511,
+      "EstimatesHouseholds": 594253
+    },
+    {
+      "State": 42,
+      "Districts": 2014,
+      "EstimatesPopulation": 460881,
+      "EstimatesHouseholds": 177817
+    },
+    {
+      "State": 43,
+      "Districts": 2014,
+      "EstimatesPopulation": 2202541,
+      "EstimatesHouseholds": 839483
+    },
+    {
+      "State": 44,
+      "Districts": 2014,
+      "EstimatesPopulation": 7121296,
+      "EstimatesHouseholds": 2473690
+    },
+    {
+      "State": 45,
+      "Districts": 2014,
+      "EstimatesPopulation": 746150,
+      "EstimatesHouseholds": 232475
+    },
+    {
+      "State": 46,
+      "Districts": 2014,
+      "EstimatesPopulation": 412201,
+      "EstimatesHouseholds": 167308
+    },
+    {
+      "State": 47,
+      "Districts": 2014,
+      "EstimatesPopulation": 2819832,
+      "EstimatesHouseholds": 1049874
+    },
+    {
+      "State": 48,
+      "Districts": 2014,
+      "EstimatesPopulation": 1828295,
+      "EstimatesHouseholds": 699681
+    },
+    {
+      "State": 49,
+      "Districts": 2014,
+      "EstimatesPopulation": 1102004,
+      "EstimatesHouseholds": 435279
+    },
+    {
+      "State": 50,
+      "Districts": 2014,
+      "EstimatesPopulation": 2176771,
+      "EstimatesHouseholds": 861288
+    },
+    {
+      "State": 51,
+      "Districts": 2014,
+      "EstimatesPopulation": 258580,
+      "EstimatesHouseholds": 101422
+    },
+    {
+      "State": 1,
+      "Districts": 2015,
+      "EstimatesPopulation": 2188640,
+      "EstimatesHouseholds": 823282
+    },
+    {
+      "State": 2,
+      "Districts": 2015,
+      "EstimatesPopulation": 297232,
+      "EstimatesHouseholds": 99339
+    },
+    {
+      "State": 3,
+      "Districts": 2015,
+      "EstimatesPopulation": 1325928,
+      "EstimatesHouseholds": 480137
+    },
+    {
+      "State": 4,
+      "Districts": 2015,
+      "EstimatesPopulation": 1313984,
+      "EstimatesHouseholds": 506878
+    },
+    {
+      "State": 5,
+      "Districts": 2015,
+      "EstimatesPopulation": 6712962,
+      "EstimatesHouseholds": 2280040
+    },
+    {
+      "State": 6,
+      "Districts": 2015,
+      "EstimatesPopulation": 1524501,
+      "EstimatesHouseholds": 579232
+    },
+    {
+      "State": 7,
+      "Districts": 2015,
+      "EstimatesPopulation": 1013011,
+      "EstimatesHouseholds": 381367
+    },
+    {
+      "State": 8,
+      "Districts": 2015,
+      "EstimatesPopulation": 244904,
+      "EstimatesHouseholds": 92224
+    },
+    {
+      "State": 9,
+      "Districts": 2015,
+      "EstimatesPopulation": 97503,
+      "EstimatesHouseholds": 37890
+    },
+    {
+      "State": 10,
+      "Districts": 2015,
+      "EstimatesPopulation": 4645003,
+      "EstimatesHouseholds": 1711998
+    },
+    {
+      "State": 11,
+      "Districts": 2015,
+      "EstimatesPopulation": 3355428,
+      "EstimatesHouseholds": 1191968
+    },
+    {
+      "State": 12,
+      "Districts": 2015,
+      "EstimatesPopulation": 333546,
+      "EstimatesHouseholds": 103202
+    },
+    {
+      "State": 13,
+      "Districts": 2015,
+      "EstimatesPopulation": 652882,
+      "EstimatesHouseholds": 238545
+    },
+    {
+      "State": 14,
+      "Districts": 2015,
+      "EstimatesPopulation": 3637604,
+      "EstimatesHouseholds": 1362992
+    },
+    {
+      "State": 15,
+      "Districts": 2015,
+      "EstimatesPopulation": 2417974,
+      "EstimatesHouseholds": 895913
+    },
+    {
+      "State": 16,
+      "Districts": 2015,
+      "EstimatesPopulation": 1523806,
+      "EstimatesHouseholds": 603350
+    },
+    {
+      "State": 17,
+      "Districts": 2015,
+      "EstimatesPopulation": 1196680,
+      "EstimatesHouseholds": 460803
+    },
+    {
+      "State": 18,
+      "Districts": 2015,
+      "EstimatesPopulation": 1718513,
+      "EstimatesHouseholds": 656490
+    },
+    {
+      "State": 19,
+      "Districts": 2015,
+      "EstimatesPopulation": 1573402,
+      "EstimatesHouseholds": 577538
+    },
+    {
+      "State": 20,
+      "Districts": 2015,
+      "EstimatesPopulation": 843125,
+      "EstimatesHouseholds": 350849
+    },
+    {
+      "State": 21,
+      "Districts": 2015,
+      "EstimatesPopulation": 1549676,
+      "EstimatesHouseholds": 550357
+    },
+    {
+      "State": 22,
+      "Districts": 2015,
+      "EstimatesPopulation": 2156478,
+      "EstimatesHouseholds": 814374
+    },
+    {
+      "State": 23,
+      "Districts": 2015,
+      "EstimatesPopulation": 2944573,
+      "EstimatesHouseholds": 1131412
+    },
+    {
+      "State": 24,
+      "Districts": 2015,
+      "EstimatesPopulation": 1994228,
+      "EstimatesHouseholds": 781567
+    },
+    {
+      "State": 25,
+      "Districts": 2015,
+      "EstimatesPopulation": 1423773,
+      "EstimatesHouseholds": 517855
+    },
+    {
+      "State": 26,
+      "Districts": 2015,
+      "EstimatesPopulation": 2324284,
+      "EstimatesHouseholds": 888516
+    },
+    {
+      "State": 27,
+      "Districts": 2015,
+      "EstimatesPopulation": 478578,
+      "EstimatesHouseholds": 189761
+    },
+    {
+      "State": 28,
+      "Districts": 2015,
+      "EstimatesPopulation": 731716,
+      "EstimatesHouseholds": 289580
+    },
+    {
+      "State": 29,
+      "Districts": 2015,
+      "EstimatesPopulation": 515584,
+      "EstimatesHouseholds": 192667
+    },
+    {
+      "State": 30,
+      "Districts": 2015,
+      "EstimatesPopulation": 732706,
+      "EstimatesHouseholds": 290184
+    },
+    {
+      "State": 31,
+      "Districts": 2015,
+      "EstimatesPopulation": 2521121,
+      "EstimatesHouseholds": 912506
+    },
+    {
+      "State": 32,
+      "Districts": 2015,
+      "EstimatesPopulation": 649883,
+      "EstimatesHouseholds": 231092
+    },
+    {
+      "State": 33,
+      "Districts": 2015,
+      "EstimatesPopulation": 4675165,
+      "EstimatesHouseholds": 1756171
+    },
+    {
+      "State": 34,
+      "Districts": 2015,
+      "EstimatesPopulation": 3211804,
+      "EstimatesHouseholds": 1214948
+    },
+    {
+      "State": 35,
+      "Districts": 2015,
+      "EstimatesPopulation": 355604,
+      "EstimatesHouseholds": 144556
+    },
+    {
+      "State": 36,
+      "Districts": 2015,
+      "EstimatesPopulation": 3556132,
+      "EstimatesHouseholds": 1356756
+    },
+    {
+      "State": 37,
+      "Districts": 2015,
+      "EstimatesPopulation": 1513497,
+      "EstimatesHouseholds": 561693
+    },
+    {
+      "State": 38,
+      "Districts": 2015,
+      "EstimatesPopulation": 1239040,
+      "EstimatesHouseholds": 483261
+    },
+    {
+      "State": 39,
+      "Districts": 2015,
+      "EstimatesPopulation": 4345156,
+      "EstimatesHouseholds": 1675691
+    },
+    {
+      "State": 40,
+      "Districts": 2015,
+      "EstimatesPopulation": 278852,
+      "EstimatesHouseholds": 105746
+    },
+    {
+      "State": 41,
+      "Districts": 2015,
+      "EstimatesPopulation": 1610310,
+      "EstimatesHouseholds": 600031
+    },
+    {
+      "State": 42,
+      "Districts": 2015,
+      "EstimatesPopulation": 464593,
+      "EstimatesHouseholds": 179144
+    },
+    {
+      "State": 43,
+      "Districts": 2015,
+      "EstimatesPopulation": 2208569,
+      "EstimatesHouseholds": 843448
+    },
+    {
+      "State": 44,
+      "Districts": 2015,
+      "EstimatesPopulation": 7232044,
+      "EstimatesHouseholds": 2503852
+    },
+    {
+      "State": 45,
+      "Districts": 2015,
+      "EstimatesPopulation": 754106,
+      "EstimatesHouseholds": 234808
+    },
+    {
+      "State": 46,
+      "Districts": 2015,
+      "EstimatesPopulation": 412043,
+      "EstimatesHouseholds": 167374
+    },
+    {
+      "State": 47,
+      "Districts": 2015,
+      "EstimatesPopulation": 2835487,
+      "EstimatesHouseholds": 1053750
+    },
+    {
+      "State": 48,
+      "Districts": 2015,
+      "EstimatesPopulation": 1850926,
+      "EstimatesHouseholds": 705968
+    },
+    {
+      "State": 49,
+      "Districts": 2015,
+      "EstimatesPopulation": 1098367,
+      "EstimatesHouseholds": 433741
+    },
+    {
+      "State": 50,
+      "Districts": 2015,
+      "EstimatesPopulation": 2183295,
+      "EstimatesHouseholds": 863489
+    },
+    {
+      "State": 51,
+      "Districts": 2015,
+      "EstimatesPopulation": 260631,
+      "EstimatesHouseholds": 102246
+    },
+    {
+      "State": 1,
+      "Districts": 2016,
+      "EstimatesPopulation": 2194328,
+      "EstimatesHouseholds": 823564
+    },
+    {
+      "State": 2,
+      "Districts": 2016,
+      "EstimatesPopulation": 296869,
+      "EstimatesHouseholds": 99060
+    },
+    {
+      "State": 3,
+      "Districts": 2016,
+      "EstimatesPopulation": 1347501,
+      "EstimatesHouseholds": 489966
+    },
+    {
+      "State": 4,
+      "Districts": 2016,
+      "EstimatesPopulation": 1317948,
+      "EstimatesHouseholds": 509507
+    },
+    {
+      "State": 5,
+      "Districts": 2016,
+      "EstimatesPopulation": 6752528,
+      "EstimatesHouseholds": 2292603
+    },
+    {
+      "State": 6,
+      "Districts": 2016,
+      "EstimatesPopulation": 1551041,
+      "EstimatesHouseholds": 589160
+    },
+    {
+      "State": 7,
+      "Districts": 2016,
+      "EstimatesPopulation": 1013760,
+      "EstimatesHouseholds": 382719
+    },
+    {
+      "State": 8,
+      "Districts": 2016,
+      "EstimatesPopulation": 250318,
+      "EstimatesHouseholds": 94209
+    },
+    {
+      "State": 9,
+      "Districts": 2016,
+      "EstimatesPopulation": 99969,
+      "EstimatesHouseholds": 38507
+    },
+    {
+      "State": 10,
+      "Districts": 2016,
+      "EstimatesPopulation": 4730432,
+      "EstimatesHouseholds": 1736370
+    },
+    {
+      "State": 11,
+      "Districts": 2016,
+      "EstimatesPopulation": 3382128,
+      "EstimatesHouseholds": 1201836
+    },
+    {
+      "State": 12,
+      "Districts": 2016,
+      "EstimatesPopulation": 336031,
+      "EstimatesHouseholds": 103686
+    },
+    {
+      "State": 13,
+      "Districts": 2016,
+      "EstimatesPopulation": 659346,
+      "EstimatesHouseholds": 241140
+    },
+    {
+      "State": 14,
+      "Districts": 2016,
+      "EstimatesPopulation": 3635006,
+      "EstimatesHouseholds": 1369560
+    },
+    {
+      "State": 15,
+      "Districts": 2016,
+      "EstimatesPopulation": 2423868,
+      "EstimatesHouseholds": 899917
+    },
+    {
+      "State": 16,
+      "Districts": 2016,
+      "EstimatesPopulation": 1530061,
+      "EstimatesHouseholds": 607097
+    },
+    {
+      "State": 17,
+      "Districts": 2016,
+      "EstimatesPopulation": 1199976,
+      "EstimatesHouseholds": 461771
+    },
+    {
+      "State": 18,
+      "Districts": 2016,
+      "EstimatesPopulation": 1720470,
+      "EstimatesHouseholds": 658595
+    },
+    {
+      "State": 19,
+      "Districts": 2016,
+      "EstimatesPopulation": 1576738,
+      "EstimatesHouseholds": 578165
+    },
+    {
+      "State": 20,
+      "Districts": 2016,
+      "EstimatesPopulation": 842729,
+      "EstimatesHouseholds": 348537
+    },
+    {
+      "State": 21,
+      "Districts": 2016,
+      "EstimatesPopulation": 1554403,
+      "EstimatesHouseholds": 552638
+    },
+    {
+      "State": 22,
+      "Districts": 2016,
+      "EstimatesPopulation": 2163824,
+      "EstimatesHouseholds": 817306
+    },
+    {
+      "State": 23,
+      "Districts": 2016,
+      "EstimatesPopulation": 2947471,
+      "EstimatesHouseholds": 1138043
+    },
+    {
+      "State": 24,
+      "Districts": 2016,
+      "EstimatesPopulation": 2003763,
+      "EstimatesHouseholds": 783553
+    },
+    {
+      "State": 25,
+      "Districts": 2016,
+      "EstimatesPopulation": 1423320,
+      "EstimatesHouseholds": 516980
+    },
+    {
+      "State": 26,
+      "Districts": 2016,
+      "EstimatesPopulation": 2329872,
+      "EstimatesHouseholds": 888419
+    },
+    {
+      "State": 27,
+      "Districts": 2016,
+      "EstimatesPopulation": 481217,
+      "EstimatesHouseholds": 190387
+    },
+    {
+      "State": 28,
+      "Districts": 2016,
+      "EstimatesPopulation": 734617,
+      "EstimatesHouseholds": 290466
+    },
+    {
+      "State": 29,
+      "Districts": 2016,
+      "EstimatesPopulation": 524286,
+      "EstimatesHouseholds": 194611
+    },
+    {
+      "State": 30,
+      "Districts": 2016,
+      "EstimatesPopulation": 734534,
+      "EstimatesHouseholds": 290307
+    },
+    {
+      "State": 31,
+      "Districts": 2016,
+      "EstimatesPopulation": 2526366,
+      "EstimatesHouseholds": 913551
+    },
+    {
+      "State": 32,
+      "Districts": 2016,
+      "EstimatesPopulation": 650808,
+      "EstimatesHouseholds": 230778
+    },
+    {
+      "State": 33,
+      "Districts": 2016,
+      "EstimatesPopulation": 4678985,
+      "EstimatesHouseholds": 1754769
+    },
+    {
+      "State": 34,
+      "Districts": 2016,
+      "EstimatesPopulation": 3224381,
+      "EstimatesHouseholds": 1224696
+    },
+    {
+      "State": 35,
+      "Districts": 2016,
+      "EstimatesPopulation": 363248,
+      "EstimatesHouseholds": 147190
+    },
+    {
+      "State": 36,
+      "Districts": 2016,
+      "EstimatesPopulation": 3551847,
+      "EstimatesHouseholds": 1358795
+    },
+    {
+      "State": 37,
+      "Districts": 2016,
+      "EstimatesPopulation": 1524896,
+      "EstimatesHouseholds": 563522
+    },
+    {
+      "State": 38,
+      "Districts": 2016,
+      "EstimatesPopulation": 1251229,
+      "EstimatesHouseholds": 487486
+    },
+    {
+      "State": 39,
+      "Districts": 2016,
+      "EstimatesPopulation": 4342022,
+      "EstimatesHouseholds": 1674633
+    },
+    {
+      "State": 40,
+      "Districts": 2016,
+      "EstimatesPopulation": 278941,
+      "EstimatesHouseholds": 105471
+    },
+    {
+      "State": 41,
+      "Districts": 2016,
+      "EstimatesPopulation": 1631899,
+      "EstimatesHouseholds": 607706
+    },
+    {
+      "State": 42,
+      "Districts": 2016,
+      "EstimatesPopulation": 467157,
+      "EstimatesHouseholds": 179930
+    },
+    {
+      "State": 43,
+      "Districts": 2016,
+      "EstimatesPopulation": 2222420,
+      "EstimatesHouseholds": 847445
+    },
+    {
+      "State": 44,
+      "Districts": 2016,
+      "EstimatesPopulation": 7335767,
+      "EstimatesHouseholds": 2536067
+    },
+    {
+      "State": 45,
+      "Districts": 2016,
+      "EstimatesPopulation": 763995,
+      "EstimatesHouseholds": 236939
+    },
+    {
+      "State": 46,
+      "Districts": 2016,
+      "EstimatesPopulation": 411518,
+      "EstimatesHouseholds": 167184
+    },
+    {
+      "State": 47,
+      "Districts": 2016,
+      "EstimatesPopulation": 2845524,
+      "EstimatesHouseholds": 1060322
+    },
+    {
+      "State": 48,
+      "Districts": 2016,
+      "EstimatesPopulation": 1870923,
+      "EstimatesHouseholds": 712470
+    },
+    {
+      "State": 49,
+      "Districts": 2016,
+      "EstimatesPopulation": 1095915,
+      "EstimatesHouseholds": 432858
+    },
+    {
+      "State": 50,
+      "Districts": 2016,
+      "EstimatesPopulation": 2186416,
+      "EstimatesHouseholds": 867410
+    },
+    {
+      "State": 51,
+      "Districts": 2016,
+      "EstimatesPopulation": 263158,
+      "EstimatesHouseholds": 102195
+    },
+    {
+      "State": 1,
+      "Districts": 2017,
+      "EstimatesPopulation": 2251824,
+      "EstimatesHouseholds": 869033
+    },
+    {
+      "State": 2,
+      "Districts": 2017,
+      "EstimatesPopulation": 311809,
+      "EstimatesHouseholds": 110632
+    },
+    {
+      "State": 3,
+      "Districts": 2017,
+      "EstimatesPopulation": 1438219,
+      "EstimatesHouseholds": 536703
+    },
+    {
+      "State": 4,
+      "Districts": 2017,
+      "EstimatesPopulation": 1359759,
+      "EstimatesHouseholds": 537220
+    },
+    {
+      "State": 5,
+      "Districts": 2017,
+      "EstimatesPopulation": 6931018,
+      "EstimatesHouseholds": 2411586
+    },
+    {
+      "State": 6,
+      "Districts": 2017,
+      "EstimatesPopulation": 1652512,
+      "EstimatesHouseholds": 640232
+    },
+    {
+      "State": 7,
+      "Districts": 2017,
+      "EstimatesPopulation": 1022621,
+      "EstimatesHouseholds": 392043
+    },
+    {
+      "State": 8,
+      "Districts": 2017,
+      "EstimatesPopulation": 260207,
+      "EstimatesHouseholds": 100829
+    },
+    {
+      "State": 9,
+      "Districts": 2017,
+      "EstimatesPopulation": 103197,
+      "EstimatesHouseholds": 43013
+    },
+    {
+      "State": 10,
+      "Districts": 2017,
+      "EstimatesPopulation": 5016338,
+      "EstimatesHouseholds": 1951628
+    },
+    {
+      "State": 11,
+      "Districts": 2017,
+      "EstimatesPopulation": 3509532,
+      "EstimatesHouseholds": 1288591
+    },
+    {
+      "State": 12,
+      "Districts": 2017,
+      "EstimatesPopulation": 342167,
+      "EstimatesHouseholds": 113306
+    },
+    {
+      "State": 13,
+      "Districts": 2017,
+      "EstimatesPopulation": 710719,
+      "EstimatesHouseholds": 262321
+    },
+    {
+      "State": 14,
+      "Districts": 2017,
+      "EstimatesPopulation": 3679375,
+      "EstimatesHouseholds": 1394482
+    },
+    {
+      "State": 15,
+      "Districts": 2017,
+      "EstimatesPopulation": 2475761,
+      "EstimatesHouseholds": 925329
+    },
+    {
+      "State": 16,
+      "Districts": 2017,
+      "EstimatesPopulation": 1582115,
+      "EstimatesHouseholds": 625155
+    },
+    {
+      "State": 17,
+      "Districts": 2017,
+      "EstimatesPopulation": 1230253,
+      "EstimatesHouseholds": 474901
+    },
+    {
+      "State": 18,
+      "Districts": 2017,
+      "EstimatesPopulation": 1742029,
+      "EstimatesHouseholds": 678245
+    },
+    {
+      "State": 19,
+      "Districts": 2017,
+      "EstimatesPopulation": 1599759,
+      "EstimatesHouseholds": 598037
+    },
+    {
+      "State": 20,
+      "Districts": 2017,
+      "EstimatesPopulation": 868088,
+      "EstimatesHouseholds": 364663
+    },
+    {
+      "State": 21,
+      "Districts": 2017,
+      "EstimatesPopulation": 1598123,
+      "EstimatesHouseholds": 579352
+    },
+    {
+      "State": 22,
+      "Districts": 2017,
+      "EstimatesPopulation": 2200085,
+      "EstimatesHouseholds": 850054
+    },
+    {
+      "State": 23,
+      "Districts": 2017,
+      "EstimatesPopulation": 3001109,
+      "EstimatesHouseholds": 1162155
+    },
+    {
+      "State": 24,
+      "Districts": 2017,
+      "EstimatesPopulation": 2064528,
+      "EstimatesHouseholds": 809879
+    },
+    {
+      "State": 25,
+      "Districts": 2017,
+      "EstimatesPopulation": 1447657,
+      "EstimatesHouseholds": 539212
+    },
+    {
+      "State": 26,
+      "Districts": 2017,
+      "EstimatesPopulation": 2378356,
+      "EstimatesHouseholds": 925311
+    },
+    {
+      "State": 27,
+      "Districts": 2017,
+      "EstimatesPopulation": 508854,
+      "EstimatesHouseholds": 206622
+    },
+    {
+      "State": 28,
+      "Districts": 2017,
+      "EstimatesPopulation": 753483,
+      "EstimatesHouseholds": 296687
+    },
+    {
+      "State": 29,
+      "Districts": 2017,
+      "EstimatesPopulation": 562062,
+      "EstimatesHouseholds": 215553
+    },
+    {
+      "State": 30,
+      "Districts": 2017,
+      "EstimatesPopulation": 755739,
+      "EstimatesHouseholds": 300302
+    },
+    {
+      "State": 31,
+      "Districts": 2017,
+      "EstimatesPopulation": 2543715,
+      "EstimatesHouseholds": 937232
+    },
+    {
+      "State": 32,
+      "Districts": 2017,
+      "EstimatesPopulation": 674604,
+      "EstimatesHouseholds": 254119
+    },
+    {
+      "State": 33,
+      "Districts": 2017,
+      "EstimatesPopulation": 4734487,
+      "EstimatesHouseholds": 1809847
+    },
+    {
+      "State": 34,
+      "Districts": 2017,
+      "EstimatesPopulation": 3322812,
+      "EstimatesHouseholds": 1296365
+    },
+    {
+      "State": 35,
+      "Districts": 2017,
+      "EstimatesPopulation": 382977,
+      "EstimatesHouseholds": 156629
+    },
+    {
+      "State": 36,
+      "Districts": 2017,
+      "EstimatesPopulation": 3608249,
+      "EstimatesHouseholds": 1388238
+    },
+    {
+      "State": 37,
+      "Districts": 2017,
+      "EstimatesPopulation": 1552811,
+      "EstimatesHouseholds": 592195
+    },
+    {
+      "State": 38,
+      "Districts": 2017,
+      "EstimatesPopulation": 1308148,
+      "EstimatesHouseholds": 521208
+    },
+    {
+      "State": 39,
+      "Districts": 2017,
+      "EstimatesPopulation": 4379134,
+      "EstimatesHouseholds": 1710509
+    },
+    {
+      "State": 40,
+      "Districts": 2017,
+      "EstimatesPopulation": 279908,
+      "EstimatesHouseholds": 107580
+    },
+    {
+      "State": 41,
+      "Districts": 2017,
+      "EstimatesPopulation": 1699636,
+      "EstimatesHouseholds": 648989
+    },
+    {
+      "State": 42,
+      "Districts": 2017,
+      "EstimatesPopulation": 469923,
+      "EstimatesHouseholds": 183834
+    },
+    {
+      "State": 43,
+      "Districts": 2017,
+      "EstimatesPopulation": 2288797,
+      "EstimatesHouseholds": 891165
+    },
+    {
+      "State": 44,
+      "Districts": 2017,
+      "EstimatesPopulation": 7812354,
+      "EstimatesHouseholds": 2793581
+    },
+    {
+      "State": 45,
+      "Districts": 2017,
+      "EstimatesPopulation": 820976,
+      "EstimatesHouseholds": 257510
+    },
+    {
+      "State": 46,
+      "Districts": 2017,
+      "EstimatesPopulation": 422303,
+      "EstimatesHouseholds": 170695
+    },
+    {
+      "State": 47,
+      "Districts": 2017,
+      "EstimatesPopulation": 2926179,
+      "EstimatesHouseholds": 1112193
+    },
+    {
+      "State": 48,
+      "Districts": 2017,
+      "EstimatesPopulation": 1953843,
+      "EstimatesHouseholds": 763327
+    },
+    {
+      "State": 49,
+      "Districts": 2017,
+      "EstimatesPopulation": 1097684,
+      "EstimatesHouseholds": 443862
+    },
+    {
+      "State": 50,
+      "Districts": 2017,
+      "EstimatesPopulation": 2230560,
+      "EstimatesHouseholds": 880821
+    },
+    {
+      "State": 51,
+      "Districts": 2017,
+      "EstimatesPopulation": 268998,
+      "EstimatesHouseholds": 107666
+    },
+    {
+      "State": 1,
+      "Districts": 2022,
+      "EstimatesPopulation": 2320138,
+      "EstimatesHouseholds": 895154
+    },
+    {
+      "State": 2,
+      "Districts": 2022,
+      "EstimatesPopulation": 326504,
+      "EstimatesHouseholds": 115547
+    },
+    {
+      "State": 3,
+      "Districts": 2022,
+      "EstimatesPopulation": 1586017,
+      "EstimatesHouseholds": 592470
+    },
+    {
+      "State": 4,
+      "Districts": 2022,
+      "EstimatesPopulation": 1428236,
+      "EstimatesHouseholds": 563412
+    },
+    {
+      "State": 5,
+      "Districts": 2022,
+      "EstimatesPopulation": 7312621,
+      "EstimatesHouseholds": 2550389
+    },
+    {
+      "State": 6,
+      "Districts": 2022,
+      "EstimatesPopulation": 1829028,
+      "EstimatesHouseholds": 709185
+    },
+    {
+      "State": 7,
+      "Districts": 2022,
+      "EstimatesPopulation": 1036651,
+      "EstimatesHouseholds": 398202
+    },
+    {
+      "State": 8,
+      "Districts": 2022,
+      "EstimatesPopulation": 273027,
+      "EstimatesHouseholds": 105773
+    },
+    {
+      "State": 9,
+      "Districts": 2022,
+      "EstimatesPopulation": 104890,
+      "EstimatesHouseholds": 43814
+    },
+    {
+      "State": 10,
+      "Districts": 2022,
+      "EstimatesPopulation": 5425330,
+      "EstimatesHouseholds": 2111418
+    },
+    {
+      "State": 11,
+      "Districts": 2022,
+      "EstimatesPopulation": 3768926,
+      "EstimatesHouseholds": 1385396
+    },
+    {
+      "State": 12,
+      "Districts": 2022,
+      "EstimatesPopulation": 360370,
+      "EstimatesHouseholds": 120116
+    },
+    {
+      "State": 13,
+      "Districts": 2022,
+      "EstimatesPopulation": 763793,
+      "EstimatesHouseholds": 281390
+    },
+    {
+      "State": 14,
+      "Districts": 2022,
+      "EstimatesPopulation": 3737171,
+      "EstimatesHouseholds": 1415296
+    },
+    {
+      "State": 15,
+      "Districts": 2022,
+      "EstimatesPopulation": 2535720,
+      "EstimatesHouseholds": 947483
+    },
+    {
+      "State": 16,
+      "Districts": 2022,
+      "EstimatesPopulation": 1628974,
+      "EstimatesHouseholds": 643240
+    },
+    {
+      "State": 17,
+      "Districts": 2022,
+      "EstimatesPopulation": 1253534,
+      "EstimatesHouseholds": 482757
+    },
+    {
+      "State": 18,
+      "Districts": 2022,
+      "EstimatesPopulation": 1781986,
+      "EstimatesHouseholds": 693396
+    },
+    {
+      "State": 19,
+      "Districts": 2022,
+      "EstimatesPopulation": 1635289,
+      "EstimatesHouseholds": 611024
+    },
+    {
+      "State": 20,
+      "Districts": 2022,
+      "EstimatesPopulation": 867756,
+      "EstimatesHouseholds": 364249
+    },
+    {
+      "State": 21,
+      "Districts": 2022,
+      "EstimatesPopulation": 1677668,
+      "EstimatesHouseholds": 608271
+    },
+    {
+      "State": 22,
+      "Districts": 2022,
+      "EstimatesPopulation": 2233452,
+      "EstimatesHouseholds": 864380
+    },
+    {
+      "State": 23,
+      "Districts": 2022,
+      "EstimatesPopulation": 3025945,
+      "EstimatesHouseholds": 1171108
+    },
+    {
+      "State": 24,
+      "Districts": 2022,
+      "EstimatesPopulation": 2146752,
+      "EstimatesHouseholds": 841321
+    },
+    {
+      "State": 25,
+      "Districts": 2022,
+      "EstimatesPopulation": 1477659,
+      "EstimatesHouseholds": 550375
+    },
+    {
+      "State": 26,
+      "Districts": 2022,
+      "EstimatesPopulation": 2431854,
+      "EstimatesHouseholds": 946544
+    },
+    {
+      "State": 27,
+      "Districts": 2022,
+      "EstimatesPopulation": 530621,
+      "EstimatesHouseholds": 215558
+    },
+    {
+      "State": 28,
+      "Districts": 2022,
+      "EstimatesPopulation": 773345,
+      "EstimatesHouseholds": 303833
+    },
+    {
+      "State": 29,
+      "Districts": 2022,
+      "EstimatesPopulation": 611625,
+      "EstimatesHouseholds": 233927
+    },
+    {
+      "State": 30,
+      "Districts": 2022,
+      "EstimatesPopulation": 772155,
+      "EstimatesHouseholds": 306898
+    },
+    {
+      "State": 31,
+      "Districts": 2022,
+      "EstimatesPopulation": 2603575,
+      "EstimatesHouseholds": 960200
+    },
+    {
+      "State": 32,
+      "Districts": 2022,
+      "EstimatesPopulation": 709100,
+      "EstimatesHouseholds": 267095
+    },
+    {
+      "State": 33,
+      "Districts": 2022,
+      "EstimatesPopulation": 4741954,
+      "EstimatesHouseholds": 1813703
+    },
+    {
+      "State": 34,
+      "Districts": 2022,
+      "EstimatesPopulation": 3466724,
+      "EstimatesHouseholds": 1354107
+    },
+    {
+      "State": 35,
+      "Districts": 2022,
+      "EstimatesPopulation": 413577,
+      "EstimatesHouseholds": 168950
+    },
+    {
+      "State": 36,
+      "Districts": 2022,
+      "EstimatesPopulation": 3622022,
+      "EstimatesHouseholds": 1393090
+    },
+    {
+      "State": 37,
+      "Districts": 2022,
+      "EstimatesPopulation": 1608113,
+      "EstimatesHouseholds": 613153
+    },
+    {
+      "State": 38,
+      "Districts": 2022,
+      "EstimatesPopulation": 1387484,
+      "EstimatesHouseholds": 553760
+    },
+    {
+      "State": 39,
+      "Districts": 2022,
+      "EstimatesPopulation": 4456131,
+      "EstimatesHouseholds": 1741523
+    },
+    {
+      "State": 40,
+      "Districts": 2022,
+      "EstimatesPopulation": 283360,
+      "EstimatesHouseholds": 109068
+    },
+    {
+      "State": 41,
+      "Districts": 2022,
+      "EstimatesPopulation": 1764651,
+      "EstimatesHouseholds": 674103
+    },
+    {
+      "State": 42,
+      "Districts": 2022,
+      "EstimatesPopulation": 481853,
+      "EstimatesHouseholds": 188159
+    },
+    {
+      "State": 43,
+      "Districts": 2022,
+      "EstimatesPopulation": 2384069,
+      "EstimatesHouseholds": 928602
+    },
+    {
+      "State": 44,
+      "Districts": 2022,
+      "EstimatesPopulation": 8411304,
+      "EstimatesHouseholds": 3008614
+    },
+    {
+      "State": 45,
+      "Districts": 2022,
+      "EstimatesPopulation": 903554,
+      "EstimatesHouseholds": 283126
+    },
+    {
+      "State": 46,
+      "Districts": 2022,
+      "EstimatesPopulation": 426289,
+      "EstimatesHouseholds": 172319
+    },
+    {
+      "State": 47,
+      "Districts": 2022,
+      "EstimatesPopulation": 3053349,
+      "EstimatesHouseholds": 1159391
+    },
+    {
+      "State": 48,
+      "Districts": 2022,
+      "EstimatesPopulation": 2053310,
+      "EstimatesHouseholds": 805497
+    },
+    {
+      "State": 49,
+      "Districts": 2022,
+      "EstimatesPopulation": 1102724,
+      "EstimatesHouseholds": 445443
+    },
+    {
+      "State": 50,
+      "Districts": 2022,
+      "EstimatesPopulation": 2299337,
+      "EstimatesHouseholds": 907980
+    },
+    {
+      "State": 51,
+      "Districts": 2022,
+      "EstimatesPopulation": 281246,
+      "EstimatesHouseholds": 112540
+    },
+    {
+      "State": 1,
+      "Districts": 2027,
+      "EstimatesPopulation": 2385704,
+      "EstimatesHouseholds": 920395
+    },
+    {
+      "State": 2,
+      "Districts": 2027,
+      "EstimatesPopulation": 340310,
+      "EstimatesHouseholds": 120386
+    },
+    {
+      "State": 3,
+      "Districts": 2027,
+      "EstimatesPopulation": 1737440,
+      "EstimatesHouseholds": 650131
+    },
+    {
+      "State": 4,
+      "Districts": 2027,
+      "EstimatesPopulation": 1506311,
+      "EstimatesHouseholds": 593149
+    },
+    {
+      "State": 5,
+      "Districts": 2027,
+      "EstimatesPopulation": 7693919,
+      "EstimatesHouseholds": 2686939
+    },
+    {
+      "State": 6,
+      "Districts": 2027,
+      "EstimatesPopulation": 2008776,
+      "EstimatesHouseholds": 779602
+    },
+    {
+      "State": 7,
+      "Districts": 2027,
+      "EstimatesPopulation": 1049802,
+      "EstimatesHouseholds": 403743
+    },
+    {
+      "State": 8,
+      "Districts": 2027,
+      "EstimatesPopulation": 284814,
+      "EstimatesHouseholds": 110362
+    },
+    {
+      "State": 9,
+      "Districts": 2027,
+      "EstimatesPopulation": 107410,
+      "EstimatesHouseholds": 45063
+    },
+    {
+      "State": 10,
+      "Districts": 2027,
+      "EstimatesPopulation": 5841414,
+      "EstimatesHouseholds": 2274871
+    },
+    {
+      "State": 11,
+      "Districts": 2027,
+      "EstimatesPopulation": 4045638,
+      "EstimatesHouseholds": 1487784
+    },
+    {
+      "State": 12,
+      "Districts": 2027,
+      "EstimatesPopulation": 380094,
+      "EstimatesHouseholds": 127337
+    },
+    {
+      "State": 13,
+      "Districts": 2027,
+      "EstimatesPopulation": 820648,
+      "EstimatesHouseholds": 302004
+    },
+    {
+      "State": 14,
+      "Districts": 2027,
+      "EstimatesPopulation": 3794943,
+      "EstimatesHouseholds": 1435368
+    },
+    {
+      "State": 15,
+      "Districts": 2027,
+      "EstimatesPopulation": 2591502,
+      "EstimatesHouseholds": 968112
+    },
+    {
+      "State": 16,
+      "Districts": 2027,
+      "EstimatesPopulation": 1675535,
+      "EstimatesHouseholds": 661202
+    },
+    {
+      "State": 17,
+      "Districts": 2027,
+      "EstimatesPopulation": 1276863,
+      "EstimatesHouseholds": 490939
+    },
+    {
+      "State": 18,
+      "Districts": 2027,
+      "EstimatesPopulation": 1820429,
+      "EstimatesHouseholds": 708138
+    },
+    {
+      "State": 19,
+      "Districts": 2027,
+      "EstimatesPopulation": 1674201,
+      "EstimatesHouseholds": 625431
+    },
+    {
+      "State": 20,
+      "Districts": 2027,
+      "EstimatesPopulation": 865493,
+      "EstimatesHouseholds": 363102
+    },
+    {
+      "State": 21,
+      "Districts": 2027,
+      "EstimatesPopulation": 1752051,
+      "EstimatesHouseholds": 635484
+    },
+    {
+      "State": 22,
+      "Districts": 2027,
+      "EstimatesPopulation": 2258364,
+      "EstimatesHouseholds": 874976
+    },
+    {
+      "State": 23,
+      "Districts": 2027,
+      "EstimatesPopulation": 3050535,
+      "EstimatesHouseholds": 1179996
+    },
+    {
+      "State": 24,
+      "Districts": 2027,
+      "EstimatesPopulation": 2227285,
+      "EstimatesHouseholds": 872005
+    },
+    {
+      "State": 25,
+      "Districts": 2027,
+      "EstimatesPopulation": 1506040,
+      "EstimatesHouseholds": 561082
+    },
+    {
+      "State": 26,
+      "Districts": 2027,
+      "EstimatesPopulation": 2489388,
+      "EstimatesHouseholds": 968817
+    },
+    {
+      "State": 27,
+      "Districts": 2027,
+      "EstimatesPopulation": 548935,
+      "EstimatesHouseholds": 223123
+    },
+    {
+      "State": 28,
+      "Districts": 2027,
+      "EstimatesPopulation": 795374,
+      "EstimatesHouseholds": 312017
+    },
+    {
+      "State": 29,
+      "Districts": 2027,
+      "EstimatesPopulation": 655952,
+      "EstimatesHouseholds": 250596
+    },
+    {
+      "State": 30,
+      "Districts": 2027,
+      "EstimatesPopulation": 788185,
+      "EstimatesHouseholds": 313349
+    },
+    {
+      "State": 31,
+      "Districts": 2027,
+      "EstimatesPopulation": 2664607,
+      "EstimatesHouseholds": 983353
+    },
+    {
+      "State": 32,
+      "Districts": 2027,
+      "EstimatesPopulation": 743485,
+      "EstimatesHouseholds": 280022
+    },
+    {
+      "State": 33,
+      "Districts": 2027,
+      "EstimatesPopulation": 4742292,
+      "EstimatesHouseholds": 1814039
+    },
+    {
+      "State": 34,
+      "Districts": 2027,
+      "EstimatesPopulation": 3613922,
+      "EstimatesHouseholds": 1413505
+    },
+    {
+      "State": 35,
+      "Districts": 2027,
+      "EstimatesPopulation": 442926,
+      "EstimatesHouseholds": 180853
+    },
+    {
+      "State": 36,
+      "Districts": 2027,
+      "EstimatesPopulation": 3633962,
+      "EstimatesHouseholds": 1397113
+    },
+    {
+      "State": 37,
+      "Districts": 2027,
+      "EstimatesPopulation": 1662368,
+      "EstimatesHouseholds": 634011
+    },
+    {
+      "State": 38,
+      "Districts": 2027,
+      "EstimatesPopulation": 1469296,
+      "EstimatesHouseholds": 586968
+    },
+    {
+      "State": 39,
+      "Districts": 2027,
+      "EstimatesPopulation": 4533612,
+      "EstimatesHouseholds": 1772464
+    },
+    {
+      "State": 40,
+      "Districts": 2027,
+      "EstimatesPopulation": 286953,
+      "EstimatesHouseholds": 110587
+    },
+    {
+      "State": 41,
+      "Districts": 2027,
+      "EstimatesPopulation": 1831839,
+      "EstimatesHouseholds": 700375
+    },
+    {
+      "State": 42,
+      "Districts": 2027,
+      "EstimatesPopulation": 495595,
+      "EstimatesHouseholds": 193298
+    },
+    {
+      "State": 43,
+      "Districts": 2027,
+      "EstimatesPopulation": 2480979,
+      "EstimatesHouseholds": 966314
+    },
+    {
+      "State": 44,
+      "Districts": 2027,
+      "EstimatesPopulation": 9027313,
+      "EstimatesHouseholds": 3229203
+    },
+    {
+      "State": 45,
+      "Districts": 2027,
+      "EstimatesPopulation": 991155,
+      "EstimatesHouseholds": 310441
+    },
+    {
+      "State": 46,
+      "Districts": 2027,
+      "EstimatesPopulation": 428947,
+      "EstimatesHouseholds": 173390
+    },
+    {
+      "State": 47,
+      "Districts": 2027,
+      "EstimatesPopulation": 3182788,
+      "EstimatesHouseholds": 1207808
+    },
+    {
+      "State": 48,
+      "Districts": 2027,
+      "EstimatesPopulation": 2156846,
+      "EstimatesHouseholds": 847465
+    },
+    {
+      "State": 49,
+      "Districts": 2027,
+      "EstimatesPopulation": 1105422,
+      "EstimatesHouseholds": 446148
+    },
+    {
+      "State": 50,
+      "Districts": 2027,
+      "EstimatesPopulation": 2372937,
+      "EstimatesHouseholds": 937156
+    },
+    {
+      "State": 51,
+      "Districts": 2027,
+      "EstimatesPopulation": 292933,
+      "EstimatesHouseholds": 117229
+    }
+  ],
+  "Actuals": [
+    {
+      "State": 1,
+      "ActualPopulation": 22805514.45,
+      "ActualHouseholds": 8523999.039
+    },
+    {
+      "State": 4,
+      "ActualPopulation": 13456843.76,
+      "ActualHouseholds": 5230873.909
+    },
+    {
+      "State": 7,
+      "ActualPopulation": 10150130,
+      "ActualHouseholds": 3792196.428
+    },
+    {
+      "State": 11,
+      "ActualPopulation": 33888365.75,
+      "ActualHouseholds": 12099950.79
+    },
+    {
+      "State": 15,
+      "ActualPopulation": 24484837.5,
+      "ActualHouseholds": 9108997.804
+    },
+    {
+      "State": 21,
+      "ActualPopulation": 16210399.02,
+      "ActualHouseholds": 5694196.165
+    },
+    {
+      "State": 22,
+      "ActualPopulation": 21466947.42,
+      "ActualHouseholds": 8003975.033
+    },
+    {
+      "State": 23,
+      "ActualPopulation": 29705785.51,
+      "ActualHouseholds": 11087310.02
+    },
+    {
+      "State": 28,
+      "ActualPopulation": 7472263.545,
+      "ActualHouseholds": 3005416.71
+    },
+    {
+      "State": 30,
+      "ActualPopulation": 7483506.737,
+      "ActualHouseholds": 2933930.246
+    },
+    {
+      "State": 31,
+      "ActualPopulation": 24646725.62,
+      "ActualHouseholds": 9322338.133
+    },
+    {
+      "State": 32,
+      "ActualPopulation": 6672912.386,
+      "ActualHouseholds": 2377811.468
+    },
+    {
+      "State": 33,
+      "ActualPopulation": 46579835.5,
+      "ActualHouseholds": 17306436.65
+    },
+    {
+      "State": 35,
+      "ActualPopulation": 3658415.743,
+      "ActualHouseholds": 1529798.167
+    },
+    {
+      "State": 36,
+      "ActualPopulation": 35917201.94,
+      "ActualHouseholds": 13533553.25
+    },
+    {
+      "State": 38,
+      "ActualPopulation": 12289308.7,
+      "ActualHouseholds": 5228195.838
+    },
+    {
+      "State": 39,
+      "ActualPopulation": 43247561.8,
+      "ActualHouseholds": 16742904.76
+    },
+    {
+      "State": 44,
+      "ActualPopulation": 73616424.13,
+      "ActualHouseholds": 24776558.25
+    },
+    {
+      "State": 47,
+      "ActualPopulation": 28999618.8,
+      "ActualHouseholds": 11163555.24
+    },
+    {
+      "State": 48,
+      "ActualPopulation": 18316996.74,
+      "ActualHouseholds": 7248293.213
+    },
+    {
+      "State": 49,
+      "ActualPopulation": 10979137.6,
+      "ActualHouseholds": 4341125.612
+    },
+    {
+      "State": 50,
+      "ActualPopulation": 21884722.8,
+      "ActualHouseholds": 8825351.399
+    }
+  ]
+}
